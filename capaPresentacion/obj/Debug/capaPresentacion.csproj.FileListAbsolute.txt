@@ -1,0 +1,136 @@
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmClientes.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmClientes.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Usuario\Downloads\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb

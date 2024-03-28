@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\josue.huayllas\\onedrive - universidad privada domingo savio\\escritorio\\gio\\sistemaventas1\\sistemaventas\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|c:\\users\\josue.huayllas\\onedrive - universidad privada domingo savio\\escritorio\\gio\\sistemaventas1\\sistemaventas\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:56:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCliente.cs",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
+              "RelativeToolTip": "capaPresentacion\\FrmCliente.cs",
+              "ViewState": "AQIAAIMBAAAAAAAAAAAuwJQBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:45:25.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:45:23.044Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
+              "RelativeToolTip": "capaPresentacion\\frmVentas.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:55:44.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:35:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:20:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:01:30.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
