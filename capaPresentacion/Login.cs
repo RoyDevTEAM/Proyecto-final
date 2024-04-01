@@ -53,7 +53,6 @@ namespace capaPresentacion
                 MessageBox.Show("No se encontró el usuario", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
-
         private void frm_closing(object sender, FormClosingEventArgs e)
         {
             txtUsuario.Text = "";
@@ -75,6 +74,11 @@ namespace capaPresentacion
 
             // Establecer el botón de ingreso como botón predeterminado
             this.AcceptButton = btnIngresar;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
