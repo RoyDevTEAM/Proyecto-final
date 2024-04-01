@@ -42,8 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CD_Cliente.cs" />
     <Compile Include="CD_Usuario.cs" />
     <Compile Include="Conexion.cs" />
+    <Compile Include="DbConecction.cs" />
+    <Compile Include="DCliente.cs" />
+    <Compile Include="DDetalle_Venta.cs" />
+    <Compile Include="DProducto.cs" />
+    <Compile Include="DVenta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -14,6 +14,6 @@ namespace CapaEntidad
         public string numero_carnet {  get; set; }
         public string telefono {  get; set; }
         public string direccion {  get; set; }
-
+        public string estado {  get; set; }
     }
 }

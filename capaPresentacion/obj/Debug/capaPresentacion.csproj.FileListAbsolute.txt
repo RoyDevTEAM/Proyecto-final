@@ -134,3 +134,220 @@ C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\
 C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
 C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
 C:\Users\josue.huayllas\OneDrive - Universidad Privada Domingo Savio\Escritorio\gio\SistemaVentas1\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmVenta.resources
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmVentalista.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmVenta.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmVentalista.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\stdole.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.ReporteCliente.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\stdole.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmCliente.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCompras.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmPago.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReportes.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmVenta.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.FrmVentalista.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentas.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.ReporteCliente.resources
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\capaPresentacion\obj\Debug\capaPresentacion.pdb

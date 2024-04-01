@@ -10,3 +10,9 @@ D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\CapaE
 D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\upds\7mo semestre\desarrollo de sistemas II\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -1,34 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\josue.huayllas\\onedrive - universidad privada domingo savio\\escritorio\\gio\\sistemaventas1\\sistemaventas\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\pc\\documents\\universidad\\desarrollo de sistemas ii\\proyecto final\\proyecto compa\u00F1eros\\roy\\sistemaventas\\capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\dventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|c:\\users\\josue.huayllas\\onedrive - universidad privada domingo savio\\escritorio\\gio\\sistemaventas1\\sistemaventas\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEBA13-ABE5-4E58-AA70-FE7B492AA243}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capanegocio\\nventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEBA13-ABE5-4E58-AA70-FE7B492AA243}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\nventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEBA13-ABE5-4E58-AA70-FE7B492AA243}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capanegocio\\nproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEBA13-ABE5-4E58-AA70-FE7B492AA243}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\nproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEBA13-ABE5-4E58-AA70-FE7B492AA243}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capanegocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEBA13-ABE5-4E58-AA70-FE7B492AA243}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\ddetalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ddetalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmventalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmventalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmventalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\dbconecction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dbconecction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capadatos\\dproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAFE0AA-C725-41E3-8112-D850B48C8055}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1521C6C1-72AC-49B1-88F7-C1911D2DB2A7}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,87 +109,295 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CD_Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
-              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T13:56:03.884Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmCliente.cs",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
-              "RelativeDocumentMoniker": "capaPresentacion\\FrmCliente.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
-              "RelativeToolTip": "capaPresentacion\\FrmCliente.cs",
-              "ViewState": "AQIAAIMBAAAAAAAAAAAuwJQBAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:45:25.909Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
-              "RelativeDocumentMoniker": "capaPresentacion\\FrmCliente.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\FrmCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "capaPresentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "Title": "FrmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmVenta.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVenta.cs",
+              "RelativeToolTip": "capaPresentacion\\FrmVenta.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:45:23.044Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmVentas.cs",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
-              "RelativeDocumentMoniker": "capaPresentacion\\frmVentas.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
-              "RelativeToolTip": "capaPresentacion\\frmVentas.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAswCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:55:44.946Z"
+              "WhenOpened": "2024-03-29T13:14:11.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Login.cs",
-              "RelativeDocumentMoniker": "capaPresentacion\\Login.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "capaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Title": "NVenta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaNegocio\\NVenta.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NVenta.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaNegocio\\NVenta.cs",
+              "RelativeToolTip": "CapaNegocio\\NVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:35:17.162Z"
+              "WhenOpened": "2024-03-29T13:10:29.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVenta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DVenta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DVenta.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DVenta.cs",
+              "RelativeToolTip": "CapaDatos\\DVenta.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAIAwwI4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:06:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "capaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\App.config",
+              "RelativeToolTip": "capaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-29T12:20:34.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Program.cs",
+              "RelativeToolTip": "capaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:59:06.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmCliente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
+              "RelativeToolTip": "capaPresentacion\\FrmCliente.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowE4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:33:20.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:33:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:04:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DDetalle_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DDetalle_Venta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DDetalle_Venta.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DDetalle_Venta.cs",
+              "RelativeToolTip": "CapaDatos\\DDetalle_Venta.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAANoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:03:04.977Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
-              "RelativeDocumentMoniker": "capaPresentacion\\frmVentas.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\frmVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "capaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Title": "DCliente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DCliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DCliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DCliente.cs",
+              "RelativeToolTip": "CapaDatos\\DCliente.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAswKgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:20:00.434Z"
+              "WhenOpened": "2024-03-29T13:08:24.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:58:11.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmVenta.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\FrmVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:13:40.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Inicio.cs",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Login.cs",
+              "RelativeToolTip": "capaPresentacion\\Login.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvyUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:08:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Inicio.cs",
               "RelativeDocumentMoniker": "capaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\josue.huayllas\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\gio\\SistemaVentas1\\SistemaVentas\\capaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "capaPresentacion\\Inicio.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:15:21.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbConecction.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DbConecction.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DbConecction.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DbConecction.cs",
+              "RelativeToolTip": "CapaDatos\\DbConecction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:03:57.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DProducto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DProducto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DProducto.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaDatos\\DProducto.cs",
+              "RelativeToolTip": "CapaDatos\\DProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:07:28.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NCliente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaNegocio\\NCliente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NCliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaNegocio\\NCliente.cs",
+              "RelativeToolTip": "CapaNegocio\\NCliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:10:01.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NProducto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaNegocio\\NProducto.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NProducto.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\CapaNegocio\\NProducto.cs",
+              "RelativeToolTip": "CapaNegocio\\NProducto.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:11:08.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:15:17.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "capaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T19:01:30.08Z"
+              "WhenOpened": "2024-03-29T13:31:02.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmVentalista.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVentalista.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmVentalista.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVentalista.cs",
+              "RelativeToolTip": "capaPresentacion\\FrmVentalista.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:32:20.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmVentalista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVentalista.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\FrmVentalista.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\FrmVentalista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\FrmVentalista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:31:44.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\frmUsuario.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\frmUsuario.cs",
+              "RelativeToolTip": "capaPresentacion\\frmUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:09:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Universidad\\Desarrollo de sistemas II\\Proyecto Final\\Proyecto Compa\u00F1eros\\roy\\SistemaVentas\\capaPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "capaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:08:34.449Z"
             }
           ]
         }

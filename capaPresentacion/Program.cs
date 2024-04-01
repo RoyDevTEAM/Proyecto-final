@@ -17,6 +17,8 @@ namespace capaPresentacion
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
+            //Application.Run(new Inicio());
+            //Application.Run(FrmVenta.GetInstancia());
         }
     }
 }

@@ -53,6 +53,7 @@ namespace capaPresentacion
                 MessageBox.Show("No se encontró el usuario", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
+
         private void frm_closing(object sender, FormClosingEventArgs e)
         {
             txtUsuario.Text = "";

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaDatos;
 using CapaEntidad;
 using FontAwesome.Sharp;
 
@@ -14,12 +15,33 @@ namespace capaPresentacion
 {
     public partial class Inicio : Form
     {
+
+
+
+      
+
+
+
+
+
+
+
+
         private static Usuario usuarioActual;
         private static IconMenuItem MenuActivo = null;
         private static Form FormularioActivo = null;
 
+
+
+
+
+
+
         public Inicio(Usuario objusuario)
         {
+            
+
+
             usuarioActual = objusuario;
             InitializeComponent();
         }
@@ -72,7 +94,7 @@ namespace capaPresentacion
 
         private void menuventas_Click(object sender, EventArgs e)
         {
-            AbrirFormulario((IconMenuItem)sender, new frmVentas());
+            AbrirFormulario((IconMenuItem)sender, new FrmVenta());
 
         }
 
@@ -102,8 +124,14 @@ namespace capaPresentacion
 
         private void submenuventas_Click(object sender, EventArgs e)
         {
-            AbrirFormulario(menureportes, new frmReportes());
+            AbrirFormulario(menureportes, new FrmVentalista());
 
+        }
+
+        private void reporteDeClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReporteCliente report = new ReporteCliente();
+            report.ShowDialog();
         }
     }
 }

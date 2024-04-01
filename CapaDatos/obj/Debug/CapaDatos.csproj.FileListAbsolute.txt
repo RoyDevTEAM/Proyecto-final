@@ -34,3 +34,39 @@ D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\CapaDatos
 D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
 D:\Desarrollo de sistemas 2\SistemaVentas1\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sebastian\Downloads\SistemaVentasModificado\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\PC\Documents\Universidad\Desarrollo de sistemas II\Proyecto Final\Proyecto Compañeros\roy\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jack\Desktop\MiniSuper-DS2\SistemaVentas\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SCPC618\Desktop\SistemaVentas_v2\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
